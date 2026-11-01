@@ -8,6 +8,8 @@ Personal repository for course learning materials and practical work (TP) for **
 
 This repository keeps lecture slides, reference books, assignment instructions, and completed work together for study and revision.
 
+### Submit Link: https://classroom.google.com/c/ODk2MjQyMDQxMTQy?cjc=ccyxlasy
+
 ## Repository structure
 
 ```text
